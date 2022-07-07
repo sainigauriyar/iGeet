@@ -21,6 +21,8 @@ public class PlaySong extends AppCompatActivity {
         mediaPlayer.stop();
         mediaPlayer.release();
         updateSeek.interrupt();
+
+
     }
 
     TextView textView;

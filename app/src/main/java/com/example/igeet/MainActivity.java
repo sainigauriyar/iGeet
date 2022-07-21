@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                         });
                     }
 
+
                     @Override
                     public void onPermissionDenied(PermissionDeniedResponse permissionDeniedResponse) {
 

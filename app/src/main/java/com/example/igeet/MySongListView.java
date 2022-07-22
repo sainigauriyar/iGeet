@@ -9,5 +9,4 @@ public class MySongListView extends RecyclerView {
     public MySongListView(@NonNull Context context) {
         super(context);
     }
-
 }
